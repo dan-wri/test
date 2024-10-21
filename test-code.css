@@ -1,0 +1,14 @@
+
+
+html {
+    font-size: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+dl.styleLi{
+    color: rgb(138, 39, 39);
+}
+
+small.xs{
+    font-size: 30%;
+}
